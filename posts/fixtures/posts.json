@@ -1,0 +1,41 @@
+[
+{
+  "model": "posts.post",
+  "pk": 1,
+  "fields": {
+    "author": "Micha³",
+    "title": "<3",
+    "published": true,
+    "content": "Asia",
+    "created": "2022-08-17T10:14:03.703Z",
+    "modified": "2022-08-17T10:14:39.832Z",
+    "sponsored": false
+  }
+},
+{
+  "model": "posts.post",
+  "pk": 2,
+  "fields": {
+    "author": "Test",
+    "title": "test",
+    "published": false,
+    "content": "test",
+    "created": "2022-08-17T10:14:54.297Z",
+    "modified": "2022-08-17T10:14:54.297Z",
+    "sponsored": false
+  }
+},
+{
+  "model": "posts.post",
+  "pk": 3,
+  "fields": {
+    "author": "Michal",
+    "title": "Wow",
+    "published": true,
+    "content": "This post is sponsored by wow",
+    "created": "2022-08-17T16:12:23.274Z",
+    "modified": "2022-08-17T16:12:23.274Z",
+    "sponsored": true
+  }
+}
+]
